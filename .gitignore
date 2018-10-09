@@ -1,0 +1,6 @@
+.bundle
+.bundle/*
+
+# file containing api keys
+.env
+
