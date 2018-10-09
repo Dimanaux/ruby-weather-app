@@ -4,3 +4,5 @@
 # file containing api keys
 .env
 
+.byebug_history
+
