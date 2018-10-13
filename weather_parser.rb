@@ -14,7 +14,7 @@ class WeatherParser
   end
 
   def wind
-    "Wind #{@json['wind']['spped']} m/s"
+    "Wind #{@json['wind']['speed']} m/s"
   end
 
   def temp
